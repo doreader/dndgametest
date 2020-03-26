@@ -1,0 +1,6 @@
+{
+    "ignore": [
+        "botsettings.json",
+        "nodemon.json"
+    ]
+}
